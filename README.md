@@ -3,11 +3,11 @@
 ![Bottom_up](https://github.com/user-attachments/assets/4da6977a-113b-4fab-b853-eb496dd8cedd)<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="z-index:1;position:relative" width="854" height="200" viewBox="0 0 854 200">
  
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=199A8E&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdul+Rehman!+🥰;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=199A8E&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Maria!+🥰;" />
 </div>
 
 
-## About Me 🙋‍♂️ 
+## About Me 
 
 I am a Mobile Application Developer with vast collection of skills, and extensive knowledge of programing language like c, C++, java, data structures algorithms, and Dart. I have worked in several environments from starts-up, building a mobile application from the ground up and transforming ideas into realties. I can create native and beautiful UI design for your application.
 Since I started learning Flutter in 2022, I have been dedicated to developing applications that meet exact  requirements and deliver exceptional user experiences.
