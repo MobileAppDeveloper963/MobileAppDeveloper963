@@ -8,16 +8,21 @@
 
 
 ## About Me 
+# 👋 Hi, I’m Maria!  
+- 👀 Passionate about Flutter development, debugging, and crafting intuitive user interfaces.  
+- 🌱 Currently diving into advanced Flutter debugging techniques.  
+- 💞️ Open to collaborating on open-source Flutter projects and innovative mobile app ideas.  
+- 📫 Connect with me on [Facebook](https://www.facebook.com/mobile.app.developer.369) or [Instagram](https://www.instagram.com/mobile_app_developer_369/).  
+- 😄 Pronouns: She/Her  
+- ⚡ Fun fact: I debug code faster than I cook dinner!  
 
-👋 Hi, I’m Maria!
-👀 Passionate about Flutter development, debugging, and crafting intuitive user interfaces.
-🌱 Currently diving into advanced Flutter debugging techniques.
-💞️ Open to collaborating on open-source Flutter projects and innovative mobile app ideas.
-📫 Connect with me on Facebook or Instagram.
-😄 Pronouns: She/Her
-⚡ Fun fact: I debug code faster than I cook dinner!
+## 💻 About Me  
+- 🚀 Mobile Application Developer with expertise in Flutter, debugging, and UI/UX design.  
+- 🔹 Strong command of **C, C++, Java, Data Structures, Algorithms, and Dart**.  
+- 📱 Building applications that meet precise requirements and deliver outstanding user experiences.  
+- 🏗️ Experienced in working with startups and full-scale app development.  
+- 🎨 Bringing ideas to life with beautiful, native UI designs.  
 
-I'm a Mobile Application Developer with a strong command of C, C++, Java, data structures, algorithms, and Dart. Since starting my Flutter journey in 2022, I’ve been dedicated to building applications that meet precise requirements while delivering outstanding user experiences. From startups to full-scale app development, I bring ideas to life with beautiful native UI designs.
 
 
 <br>
