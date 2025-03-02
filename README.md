@@ -9,8 +9,15 @@
 
 ## About Me 
 
-I am a Mobile Application Developer with vast collection of skills, and extensive knowledge of programing language like c, C++, java, data structures algorithms, and Dart. I have worked in several environments from starts-up, building a mobile application from the ground up and transforming ideas into realties. I can create native and beautiful UI design for your application.
-Since I started learning Flutter in 2022, I have been dedicated to developing applications that meet exact  requirements and deliver exceptional user experiences.
+👋 Hi, I’m Maria!
+👀 Passionate about Flutter development, debugging, and crafting intuitive user interfaces.
+🌱 Currently diving into advanced Flutter debugging techniques.
+💞️ Open to collaborating on open-source Flutter projects and innovative mobile app ideas.
+📫 Connect with me on Facebook or Instagram.
+😄 Pronouns: She/Her
+⚡ Fun fact: I debug code faster than I cook dinner!
+
+I'm a Mobile Application Developer with a strong command of C, C++, Java, data structures, algorithms, and Dart. Since starting my Flutter journey in 2022, I’ve been dedicated to building applications that meet precise requirements while delivering outstanding user experiences. From startups to full-scale app development, I bring ideas to life with beautiful native UI designs.
 
 
 <br>
