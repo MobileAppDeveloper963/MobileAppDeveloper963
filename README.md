@@ -5,22 +5,19 @@
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=199A8E&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Maria!+🥰;" />
 </div>
-
 # 👋 Hi, I’m Maria!  
-- 👀 Passionate about Flutter development, debugging, and crafting intuitive user interfaces.  
-- 🌱 Currently diving into advanced Flutter debugging techniques.  
-- 💞️ Open to collaborating on open-source Flutter projects and innovative mobile app ideas.  
-- 😄 Pronouns: She/Her  
-- ⚡ Fun fact: I debug code faster than I cook dinner!  
 
 ## 💻 About Me  
-- 🚀 Mobile Application Developer with expertise in Flutter, debugging, and UI/UX design.  
-- 🔹 Strong command of **C, C++, Java, Data Structures, Algorithms, and Dart**.  
-- 📱 Building applications that meet precise requirements and deliver outstanding user experiences.  
-- 🏗️ Experienced in working with startups and full-scale app development.  
-- 🎨 Bringing ideas to life with beautiful, native UI designs.  
+🚀 **Mobile Application Developer** | 🔥 **Flutter Enthusiast** | 🎨 **UI/UX Designer**  
 
-
+- 😄 **Pronouns:** She/Her  
+- 👀 Passionate about Flutter development, debugging, and crafting intuitive user interfaces.  
+- 🌱 Currently diving into advanced Flutter debugging techniques.  
+- 💞️ Open to collaborating on open-source Flutter projects & innovative mobile app ideas.  
+- 🏗️ Experienced in startups & full-scale app development.  
+- 🔹 Skilled in **C, C++, Java, Data Structures, Algorithms, Dart, and Flutter**.  
+- 🎨 Focused on creating beautiful, native UI designs.  
+- ⚡ **Fun Fact:** I debug code faster than I cook dinner! 😆 
 
 <br>
 <div align="center" style="background-color: #00FF00; padding: 10px;">
