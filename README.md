@@ -10,7 +10,6 @@
 - 👀 Passionate about Flutter development, debugging, and crafting intuitive user interfaces.  
 - 🌱 Currently diving into advanced Flutter debugging techniques.  
 - 💞️ Open to collaborating on open-source Flutter projects and innovative mobile app ideas.  
-- 📫 Connect with me on [Facebook](https://www.facebook.com/mobile.app.developer.369) or [Instagram](https://www.instagram.com/mobile_app_developer_369/).  
 - 😄 Pronouns: She/Her  
 - ⚡ Fun fact: I debug code faster than I cook dinner!  
 
