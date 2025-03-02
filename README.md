@@ -5,7 +5,6 @@
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=199A8E&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Maria!+🥰;" />
 </div>
-# 👋 Hi, I’m Maria!  
 
 ## 💻 About Me  
 🚀 **Mobile Application Developer** | 🔥 **Flutter Enthusiast** | 🎨 **UI/UX Designer**  
